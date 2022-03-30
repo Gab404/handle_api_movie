@@ -4,7 +4,7 @@ import Card from "./Card";
 
 const Form = () => {
   const [moviesData, setMoviesData] = useState([]);
-  const [search, setSearch] = useState("taker");
+  const [search, setSearch] = useState("the");
   const [sortGoodBad, setSortGoodBad] = useState(null);
 
   useEffect(() => {

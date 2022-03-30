@@ -10,8 +10,6 @@
   position: relative;
   overflow: hidden;
 
-
-
   img {
     width: 100%;
     height: 300px;
@@ -78,7 +76,7 @@
   .btn {
     background: rgba(192, 126, 4, 0.787);
     position: absolute;
-    top: 70%;
+    top: 50%;
     right: 0%;
     transform: translateX(-50%);
     padding: 14px 0;
